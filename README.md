@@ -2,5 +2,6 @@
 Programa que calcula la media, moda, desviación estandar muestral, los indices: cp,cpi,cpk,cps y k,mediana, cuartiles, coeficiente de variación, sesgo y curtosis estandarizados.
 También podemos ver   el histograma y el  diagrama de cajas.
 
-
-https://docs.google.com/spreadsheets/d/1oF0GkDZ45xvg0GeOq91l9qIDzaVYCqywHtYYLLulrDA/edit#gid=0
+Menú:
+1.Si entras en Calidad.xlsl está el excel con el trabajo.
+2.Si entras en codigo.py está el código de nuestro trabajo.
