@@ -3,5 +3,11 @@ Programa que calcula la media, moda, desviación estandar muestral, los índices
 También podemos ver   el histograma y el  diagrama de cajas.
 
 Menú:
+
+
 1.Si entras en Calidad.xlsl está el excel con el trabajo.
+
+
+
+
 2.Si entras en codigo.py está el código de nuestro trabajo.
