@@ -1,4 +1,5 @@
 # calidad_estadistica
+Hola, somos María Ramón, Jorge Barroso y Juan Navarro.
 Programa que calcula la media, moda, desviación estandar muestral, los índices: cp,cpi,cpk,cps y k,mediana, cuartiles, coeficiente de variación, sesgo y curtosis estandarizados.
 También podemos ver   el histograma y el  diagrama de cajas.
 
