@@ -5,7 +5,7 @@ También podemos ver   el histograma y el  diagrama de cajas.
 Menú:
 
 
-1.Si entras en Calidad.xlsl está el excel con el trabajo.
+1.Si entras en Calidad.xlsx está el excel con el trabajo.
 
 
 
